@@ -1,2 +1,2 @@
 # Form-Validation
-Form validation using JavaScript
+Form validation project
